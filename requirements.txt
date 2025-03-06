@@ -1,0 +1,4 @@
+langchain-community==0.3.16
+langchain-openai==0.3.3
+pipdeptree==2.25.0
+streamlit==1.41.1
